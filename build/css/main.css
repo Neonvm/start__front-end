@@ -1,0 +1,23 @@
+/*
+* Third Party
+*/
+@import url(../../bower_components/normalize.css/normalize.css);
+/*
+* Fonts
+*/
+.fonts {
+  width: 30%;
+  color: red; }
+
+div {
+  background-color: blue; }
+
+/*
+* All content style
+*/
+body {
+  background-color: #fff; }
+
+/*
+* Media
+*/
